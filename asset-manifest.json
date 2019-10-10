@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/contentstoreforwhitepanda/static/css/main.8a201f58.chunk.css",
+    "main.js": "/contentstoreforwhitepanda/static/js/main.a2fad3e9.chunk.js",
+    "main.js.map": "/contentstoreforwhitepanda/static/js/main.a2fad3e9.chunk.js.map",
+    "runtime-main.js": "/contentstoreforwhitepanda/static/js/runtime-main.fc88222f.js",
+    "runtime-main.js.map": "/contentstoreforwhitepanda/static/js/runtime-main.fc88222f.js.map",
+    "static/css/2.802837ff.chunk.css": "/contentstoreforwhitepanda/static/css/2.802837ff.chunk.css",
+    "static/js/2.2ce82c7e.chunk.js": "/contentstoreforwhitepanda/static/js/2.2ce82c7e.chunk.js",
+    "static/js/2.2ce82c7e.chunk.js.map": "/contentstoreforwhitepanda/static/js/2.2ce82c7e.chunk.js.map",
+    "index.html": "/contentstoreforwhitepanda/index.html",
+    "precache-manifest.d243b58c7afbecd0ddc554ae7e303f67.js": "/contentstoreforwhitepanda/precache-manifest.d243b58c7afbecd0ddc554ae7e303f67.js",
+    "service-worker.js": "/contentstoreforwhitepanda/service-worker.js",
+    "static/css/2.802837ff.chunk.css.map": "/contentstoreforwhitepanda/static/css/2.802837ff.chunk.css.map",
+    "static/css/main.8a201f58.chunk.css.map": "/contentstoreforwhitepanda/static/css/main.8a201f58.chunk.css.map",
+    "static/media/avatar.png": "/contentstoreforwhitepanda/static/media/avatar.483f6b56.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc88222f.js",
+    "static/css/2.802837ff.chunk.css",
+    "static/js/2.2ce82c7e.chunk.js",
+    "static/css/main.8a201f58.chunk.css",
+    "static/js/main.a2fad3e9.chunk.js"
+  ]
+}
